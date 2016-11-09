@@ -45,9 +45,9 @@ Project | Description | Timeframe | Technologies | Testing
 - Software Craftsmanship
 - Independent learner and problem-solver
 
-#### Google Squared Online
+#### Google Squared Online (March - August 2016)
 
-- Graduated with distinction from the Google Square digital marketing course (August 2016)
+- Graduated with distinction from the Google Square digital marketing course
 
 #### Oxford University / Merton College (1997 - 2001)
 
