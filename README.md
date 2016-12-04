@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/matt-vickers-a1873a3)
 
-Hi I'm Matt, and I'd love to work as a **full-stack developer** in an established midsize company, ideally with strong ethical ideas, and as part of a diverse team with a flat structure. While I'm open to anything (and any language) that will allow me to build on what I've learned in the last 16 weeks (see [Education](#education) below), I particularly enjoyed the **Swift / XCode** environment, so any mobile development opportunities would be a big plus. Ultimately I'd like to contribute to things that make a positive difference to people's lives.
+I'm a **full-stack developer** looking to work in an established midsize company, ideally with strong ethical ideas, and as part of a diverse team with a flat structure. While I'm open to anything (back or front end focus, in any language) that will allow me to build on what I've learned in the last 16 weeks (see [Education](#education) below), I particularly enjoyed the **Swift / XCode** environment, so any mobile development opportunities would be a big plus. Ultimately I'd like to contribute to things that make a positive difference to people's lives.
 
 After 12 years working in the advertising industry at OgilvyOne for a variety of big clients such as IBM, Amex, Unilever, Ford, Kodak and BP, I came to the realisation that I had been working in an increasingly political and fragile environment and that client service was no longer the fun, creative, strategic prospect it once was. This prompted my desire for a career change, and I spent considerable time researching options. I was looking for a sustainable skill in which I could develop core competency reasonably quickly, enjoy, adapt and grow with for the rest of my working life - coding at Makers Academy has so far proven to tick all of those boxes.
 
@@ -38,16 +38,16 @@ Project | Description | Timeframe | Technologies | Testing
 
 #### Makers Academy (August - November 2016)
 
-- OOP, TDD, SOLID, MVC, DDD
 - Ruby, Rails, Javascript, Node.js, Express.js, Knex, Swift 3
 - RSpec, Jasmine, Atom Jasmine, Capybara, Selenium
 - PostgreSQL, Firebase
 - Software Craftsmanship
 - Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, DDD
 
 #### Google Squared Online (March - August 2016)
 
-- Graduated with distinction from the Google Square digital marketing course
+- Graduated with distinction from the Google Squared digital marketing course
 
 #### Oxford University / Merton College (1997 - 2001)
 
